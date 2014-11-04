@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=rG\ zX\ zY\ xInter\ yInter
+comment0.target=Graph(java.awt.Graphics2D,\ int,\ int,\ double,\ double)
+comment1.params=zX\ zY\ xInter\ yInter
+comment1.target=Graph(int,\ int,\ double,\ double)
+comment2.params=
+comment2.target=void\ drawCartisianGraph()
+comment3.params=
+comment3.target=void\ drawPolarGraph()
+comment4.params=
+comment4.target=void\ drawInitialGraph()
+comment5.params=r\ th
+comment5.target=void\ plot(double,\ double)
+comment6.params=r\ th\ c
+comment6.target=void\ plot(double,\ double,\ java.awt.Color)
+comment7.params=
+comment7.target=void\ erase()
+numComments=8
